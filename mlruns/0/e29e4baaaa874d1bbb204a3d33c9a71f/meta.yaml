@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/learning/End-to-end-ml-project-with-mlflow/mlruns/0/e29e4baaaa874d1bbb204a3d33c9a71f/artifacts
+end_time: 1697268258291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e29e4baaaa874d1bbb204a3d33c9a71f
+run_name: flawless-shoat-573
+run_uuid: e29e4baaaa874d1bbb204a3d33c9a71f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697268253174
+status: 3
+tags: []
+user_id: 007926_Admin

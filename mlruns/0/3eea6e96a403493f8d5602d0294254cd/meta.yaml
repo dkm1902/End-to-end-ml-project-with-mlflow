@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/learning/End-to-end-ml-project-with-mlflow/mlruns/0/3eea6e96a403493f8d5602d0294254cd/artifacts
+end_time: 1697269208504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3eea6e96a403493f8d5602d0294254cd
+run_name: incongruous-pig-811
+run_uuid: 3eea6e96a403493f8d5602d0294254cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697269205342
+status: 3
+tags: []
+user_id: 007926_Admin

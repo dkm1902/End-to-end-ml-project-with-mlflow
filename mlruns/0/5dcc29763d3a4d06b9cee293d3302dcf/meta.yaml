@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/learning/End-to-end-ml-project-with-mlflow/mlruns/0/5dcc29763d3a4d06b9cee293d3302dcf/artifacts
+end_time: 1697270447006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dcc29763d3a4d06b9cee293d3302dcf
+run_name: vaunted-shad-534
+run_uuid: 5dcc29763d3a4d06b9cee293d3302dcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697270443406
+status: 3
+tags: []
+user_id: 007926_Admin

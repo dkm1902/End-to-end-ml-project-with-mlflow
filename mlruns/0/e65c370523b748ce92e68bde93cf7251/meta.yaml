@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/learning/End-to-end-ml-project-with-mlflow/mlruns/0/e65c370523b748ce92e68bde93cf7251/artifacts
+end_time: 1697270872941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e65c370523b748ce92e68bde93cf7251
+run_name: persistent-gnat-499
+run_uuid: e65c370523b748ce92e68bde93cf7251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697270869358
+status: 3
+tags: []
+user_id: 007926_Admin

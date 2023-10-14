@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/learning/End-to-end-ml-project-with-mlflow/mlruns/0/74fb334a168649ab9917c19cbd703b7d/artifacts
+end_time: 1697269530131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74fb334a168649ab9917c19cbd703b7d
+run_name: industrious-eel-806
+run_uuid: 74fb334a168649ab9917c19cbd703b7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697269526912
+status: 3
+tags: []
+user_id: 007926_Admin
